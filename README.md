@@ -18,6 +18,5 @@ Here are a few languages and tools I've been working with recently:
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
----
 
 # Feel free to explore my projects and drop me a message if you'd like to collaborate, or if you have any questions or feedback. Happy coding! 🚀
