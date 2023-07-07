@@ -23,7 +23,9 @@ Here are a few languages and tools I've been working with recently:
 
 #
 
-Feel free to explore my projects and drop me a message if you'd like to collaborate, or if you have any questions or feedback. Happy coding! 🚀 <br>
+Feel free to explore my projects and drop me a message if you'd like to collaborate, or if you have any questions or feedback. Happy coding!🚀 <br>
+
+### Contact Me
 [website]: <br>
 [linkedin]:https://www.linkedin.com/in/amccrovitz20/ <br>
 [email]: amccrov@purdue.edu <br>
