@@ -3,7 +3,7 @@
 ## 🧠 About Me
 I'm a Computer Science student at Purdue University (Class of 2026) passionate about building cool, useful tech — from ML tools and startup MVPs to Unity games and personal automations.
 
-This summer, I’m working as a Unity developer intern at **Sphery AG** in Switzerland, helping design rhythm-based fitness games. Previously, I contributed at **AWS**, completed a mentorship program at **Deloitte**, and launched a profitable smart home tech business in Indiana.
+This summer, I’m working as a intern at **Sphery AG** in Switzerland, helping design rhythm-based fitness games. Previously, I contributed at **AWS**, completed a mentorship program at **Deloitte**, and launched a profitable smart home tech business in Indiana.
 
 ## ⚒️ Tech Stack
 Here are some tools I’ve been working with lately:
