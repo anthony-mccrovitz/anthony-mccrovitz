@@ -20,7 +20,7 @@ Here are some tools I’ve been working with lately:
 ## 🧪 Projects Worth Checking Out
 - 🔧 [Duneland Home Tech Website](https://www.dunelandhometech.com) – local tech services site built with Next.js, optimized for SEO
 - 🧠 [ARMDecl](https://github.com/anthonymccrovitz/arm-decl) – translates ARMv8 assembly to plain English like CDecl
-- ⚾ [MLB WAR Predictor](https://github.com/anthonymccrovitz/mlb_war_prediction) – machine learning model that predicts baseball player WAR
+- ⚾ [MLB WAR Predictor](https://github.com/anthony-mccrovitz/mlb_war_prediction) – machine learning model that predicts baseball player WAR
 - 📈 [Stock Price Predictor](https://github.com/anthonymccrovitz/Stock-Price-Prediction) – ML model with backtesting for Yahoo Finance data
 
 ## 📫 Contact Me
